@@ -35,7 +35,7 @@ I'm currently completing my **ICT-Fachmann EFZ apprenticeship at Faigle AG**, wh
 
 ## 📂 Featured Projects
 
-### 🌩️ [Azure Learning Path](https://github.com/Sinan53x/azure-learning-path)
+### 🌩️ [Azure Learning Path](https://github.com/Sinan53x/azure-learning-portfolio)
 Documenting my Azure journey with hands-on exercises, notes, and mini-projects as I work toward AZ-900 certification.
 
 *More projects coming soon...*
