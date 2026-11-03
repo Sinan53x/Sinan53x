@@ -1,33 +1,3 @@
-# Hi, I'm Sinan 👋
-
-Junior Cloud Engineer at **Epic Fusion AG** in Zurich, Switzerland.
-
-I work and learn across **Microsoft Azure, Microsoft 365, cloud infrastructure, Python automation, and practical AI workflows**. I enjoy turning repetitive IT work into reliable tools, documented processes, and reusable automation.
-
-## Current focus
-
-- Microsoft Azure and Microsoft 365
-- Cloud infrastructure and operations
-- Python and workflow automation
-- AI-assisted and agentic engineering workflows
-- Clear technical documentation
-
-## Background
-
-- Junior Cloud Engineer at Epic Fusion AG
-- ICT-Fachmann EFZ apprenticeship completed at faigle
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- HackWinterthur 2026 participant
-
-## Selected projects
-
-- **Jira Reporting Dashboard** — automated Jira CSV processing and an HTML dashboard deployed on Azure App Service
-- **Jira-to-Teams Notification Workflow** — ticket notifications using Jira Automation, Power Automate, and Microsoft Teams
-- **Internal AI Chatbot Prototype** — explored productivity and knowledge-retrieval use cases in Azure
-- **SARA** — voice-operated augmented-reality prototype created at HackWinterthur 2026
-
-I'm currently building more public projects around cloud operations, automation, and agentic engineering.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sinan-turna/)
+<p align="center"><img src="assets/hero.svg" alt="Sinan Turna — Deadlock map dither over an agent-style welcome panel" width="100%"></p>
+<p align="center"><a href="https://github.com/Sinan53x/patchwhisperer"><img src="assets/pw.svg" alt="PatchWhisperer — Deadlock patch-note analysis bot" width="100%"></a></p>
+<p align="center"><sub><a href="https://github.com/Sinan53x">GitHub</a> · <a href="https://www.linkedin.com/in/sinan-turna/">LinkedIn</a></sub></p>
